@@ -22,7 +22,7 @@ A simple, user-friendly Library Management System built in Java. Designed to hel
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/LibraryManagementSystem.git
+    git clone https://github.com/Intellectual-Tarange/LibraryManagementSystem.git
     ```
 
 2. Navigate to the project folder:

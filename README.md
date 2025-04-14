@@ -44,13 +44,7 @@ BYTEUPRISE_JP_02/
 
     ```
 
-3. Compile the project:
-    ```bash
-    javac -d ..\bin com\library\*.java com\library\logic\*.java com\library\ui\*.java
-
-    ```
-
-4. Run the application:
+3. Run the application:
     ```bash
     java -cp ..\bin com.library.LibraryManagementSystem
 

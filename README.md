@@ -14,16 +14,13 @@ A simple, user-friendly Library Management System built in Java. Designed to hel
 
 
 ## Directory Structure 📂
-plaintext
-Copy
-Edit
-BYTEUPRISE_JP_02/
-├── bin/
-│   └── com/
-│       └── library/
-└── src/
-    └── com/
-        └── library/
+ BYTEUPRISE_JP_02/
+ ├── bin/
+ │   └── com/
+ │       └── library/
+ └── src/
+     └── com/
+         └── library/
 
 ## Installation 💻
 

@@ -12,6 +12,19 @@ A simple, user-friendly Library Management System built in Java. Designed to hel
 - **Import/Export books**: Import books from a CSV file and export to CSV
 - **Persistence**: Books saved in a file for easy access
 
+
+## Directory Structure 📂
+plaintext
+Copy
+Edit
+BYTEUPRISE_JP_02/
+├── bin/
+│   └── com/
+│       └── library/
+└── src/
+    └── com/
+        └── library/
+
 ## Installation 💻
 
 ### Prerequisites:
@@ -22,22 +35,25 @@ A simple, user-friendly Library Management System built in Java. Designed to hel
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Intellectual-Tarange/LibraryManagementSystem.git
+   git clone https://github.com/Intellectual-Tarange/BYTEUPRISE_JP_02.git
     ```
 
 2. Navigate to the project folder:
     ```bash
-    cd LibraryManagementSystem
+   cd C:\Users\HP\Desktop\LibraryManagementSystem\BYTEUPRISE_JP_02\src
+
     ```
 
 3. Compile the project:
     ```bash
-    javac -d bin src/com/library/Library.java src/com/library/LibraryManagementSystem.java
+    javac -d ..\bin com\library\*.java com\library\logic\*.java com\library\ui\*.java
+
     ```
 
 4. Run the application:
     ```bash
-    java -cp bin com.library.LibraryManagementSystem
+    java -cp ..\bin com.library.LibraryManagementSystem
+
     ```
 
 ## Usage 🎮
